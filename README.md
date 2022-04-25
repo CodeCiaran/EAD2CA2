@@ -1,9 +1,9 @@
-## EAD2CA2
+# EAD2CA2
 
-# Book Trackr -- ASP.NET Core Web API
+Book Trackr -- ASP.NET Core Web API
 
-# Book Trackr -- Android App
+Book Trackr -- Android App
 
-# Azure
+Azure
 --Sql Server Database
 --OpenAPI
